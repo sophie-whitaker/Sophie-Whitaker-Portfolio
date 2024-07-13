@@ -1,1 +1,1 @@
-Hello, thank you for visiting my Portfolio.  Please find included examples of coding challenges, individal projects, and examples of scripts I created during my Master's Degree. They are all written in Python. 
+Hello! Thank you for visiting my portfolio. Included are examples of coding challenges, individual projects, and scripts from my Master's Degree. All of these are written in Python.
